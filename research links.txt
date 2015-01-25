@@ -1,0 +1,30 @@
+PCB linear motor
+
+Research links:
+
+http://endless-sphere.com/forums/viewtopic.php?f=30&t=21127&sid=96b6383572549ce50e6941c43a87cd56&start=250
+
+http://forums.parallax.com/showthread.php/144160-PCB-electrro-magnet
+
+http://sm0vpo.altervista.org/info/pcb-coil.htm
+
+http://en.m.wikipedia.org/wiki/Magnetic_core
+
+http://www.getplanartransformershere.eu
+
+Cold cast magnet E core+feet combo and rail with iron filler resin?
+
+http://www.processonline.com.au/articles/30297-Linear-motors-complement-today-s-linear-motion-technologies
+
+Alu sandwich coil?
+Blind rivet vias?
+
+http://www.bsahome.org/tools/pdfs/Linear_Motors.pdf
+
+Ac Induction motor? 
+
+http://m.machinedesign.com/archive/switch-switched-reluctance
+
+Linear switched relectance motor?
+
+http://www.industrial-electronics.com/elec_pwr_3e_34.html
